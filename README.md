@@ -3,4 +3,4 @@
 Rodar o codigo no Google Colab com o data set
 
 link do colab notebook
-https://colab.research.google.com/drive/1xCiACnlFQtnPoSyei8Fuf6cNmctevBxC#scrollTo=zZ9gx7X67pi2
+https://colab.research.google.com/drive/1Ou0_eRGu34IVxHxNk0TBrd8x7JlkR-g9?usp=sharing
